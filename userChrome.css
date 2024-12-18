@@ -1,0 +1,13 @@
+/* Remove default margins from the zen-tabbox-wrapper container */
+#zen-tabbox-wrapper {
+    margin: 0 !important; /* Simplified from '0px' to '0' as 'px' is not needed for zero values */
+}
+  
+/* Remove margins from the browser sidebar container for a cleaner layout */
+.browserSidebarContainer {
+    /* Using shorthand margin property would be cleaner here, but keeping separate properties 
+       for better compatibility with existing code */
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+    margin-bottom: 0 !important;
+}
