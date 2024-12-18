@@ -1,4 +1,4 @@
-# Zen Browser - No Margin Mod
+# Zen Browser - Compact UI Mod
 
 ## Description
 A custom CSS modification for Zen Browser that removes default margins from various UI elements, creating a cleaner and more space-efficient interface.
